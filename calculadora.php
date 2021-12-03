@@ -2,9 +2,7 @@
 <html>
 <html lang="es" xml:lang="es" xmlns="http://www.w3.org/1999/xhtml">
 <head>
-	<?php include 'zhx/incz/z_meta.php';?>
-	<?php include 'zhx/incz/sql_da.php';?>
-	<title><?=$web_title?> | Inicio</title>
+	<title>Calculadora | Inicio</title>
 	<style type="text/css">
 		body {font-size:2em;width: 100%;background-color:#f1f1f1;color:#333;}
 		form {width:50%;margin:150px auto ;border:solid 1px #333;padding:20px 40px;}
