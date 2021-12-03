@@ -2,9 +2,7 @@
 <html>
 <html lang="es" xml:lang="es" xmlns="http://www.w3.org/1999/xhtml">
 <head>
-	<?php include 'zhx/incz/z_meta.php';?>
-	<?php include 'zhx/incz/sql_da.php';?>
-	<title><?=$web_title?> | Inicio</title>
+	<title>Calculadora</title>
 
 <?php
 //Aqui ingresa cable
